@@ -1,0 +1,39 @@
+﻿{
+    Faces = (
+        {
+            Files = (HasubiMono-Regular.ttf);
+            Name = "Regular";
+            PostScriptName = HasubiMono-Regular;
+        },
+        {
+            Files = (HasubiMono-Medium.ttf);
+            Name = "Medium";
+            PostScriptName = HasubiMono-Medium;
+        },
+        {
+            Files = (HasubiMono-Bold.ttf);
+            Name = "Bold";
+            PostScriptName = HasubiMono-Bold;
+        },
+        {
+            Files = (HasubiMono-ExtraBold.ttf);
+            Name = "Extra Bold";
+            PostScriptName = HasubiMono-ExtraBold;
+        },
+        {
+            Files = (HasubiMono-SemiBold.ttf);
+            Name = "Semi Bold";
+            PostScriptName = HasubiMono-SemiBold;
+        },
+        {
+            Files = (HasubiMono-Black.ttf);
+            Name = "Black";
+            PostScriptName = HasubiMono-Black;
+        }
+    );
+    Description = "Hasubi Mono (حاسوبي مونو) is an Arabic, Hebrew, and Latin condensed horizontal-contrast monospace typeface designed by Eli Heuer. Hasubi is a transliteration of حاسوبي (my computer). https://github.com/eliheuer/hasubi-mono. Open Font License, Version 1.1";
+    FontCopyright = "Eli Heuer. 2023. All Rights Reserved";
+    Foundry = "Monotype Typography";
+    Packager = "armm77 <armm77@icloud.com>";
+    Version = "pre-1.0";
+}

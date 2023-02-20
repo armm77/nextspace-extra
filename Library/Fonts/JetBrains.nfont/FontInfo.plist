@@ -1,0 +1,89 @@
+﻿{
+    Faces = (
+        {
+            Files = (JetBrainsMono-Regular.ttf);
+            Name = Regular;
+            PostScriptName = JetBrainsMono-Regular;
+        },
+        {
+            Files = (JetBrainsMono-Medium.ttf);
+            Name = Medium;
+            PostScriptName = JetBrainsMono-Medium;
+        },
+        {
+            Files = (JetBrainsMono-MediumItalic.ttf);
+            Name = "Medium Italic";
+            PostScriptName = JetBrainsMono-MediumItalic;
+        },
+        {
+            Files = (JetBrainsMono-Light.ttf);
+            Name = Light;
+            PostScriptName = JetBrainsMono-Light;
+        },
+        {
+            Files = (JetBrainsMono-LightItalic.ttf);
+            Name = "Light Italic";
+            PostScriptName = JetBrainsMono-LightItalic;
+        },
+        {
+            Files = (JetBrainsMono-ExtraLight.ttf);
+            Name = "Extra Light";
+            PostScriptName = JetBrainsMono-ExtraLight;
+        },
+        {
+            Files = (JetBrainsMono-ExtraLightItalic.ttf);
+            Name = "Extra Light Italic";
+            PostScriptName = JetBrainsMono-ExtraLightItalic;
+        },
+        {
+            Files = (JetBrainsMono-Italic.ttf);
+            Name = Italic;
+            PostScriptName = JetBrainsMono-Italic;
+        },
+        {
+            Files = (JetBrainsMono-Bold.ttf);
+            Name = Bold;
+            PostScriptName = JetBrainsMono-Bold;
+        },
+        {
+            Files = (JetBrainsMono-BoldItalic.ttf);
+            Name = "Bold Italic";
+            PostScriptName = JetBrainsMono-BoldItalic;
+        },
+        {
+            Files = (JetBrainsMono-ExtraBold.ttf);
+            Name = "Extra Bold";
+            PostScriptName = JetBrainsMono-ExtraBold;
+        },
+        {
+            Files = (JetBrainsMono-ExtraBoldItalic.ttf);
+            Name = "Extra Bold Italic";
+            PostScriptName = JetBrainsMono-ExtraBoldItalic;
+        },
+        {
+            Files = (JetBrainsMono-SemiBold.ttf);
+            Name = "Semi Bold";
+            PostScriptName = JetBrainsMono-SemiBold;
+        },
+        {
+            Files = (JetBrainsMono-SemiBoldItalic.ttf);
+            Name = "Semi Bold Italic";
+            PostScriptName = JetBrainsMono-SemiBoldItalic;
+        },
+        {
+            Files = (JetBrainsMono-Thin.ttf);
+            Name = Thin;
+            PostScriptName = JetBrainsMono-Thin;
+        },
+        {
+            Files = (JetBrainsMono-ThinItalic.ttf);
+            Name = "Thin Italic";
+            PostScriptName = JetBrainsMono-ThinItalic;
+        }
+    );
+    Description = "JetBrains Mono is available as a standalone download, and is also bundled in all JetBrains IDEs. Discover more font features & design on its web page.(https://www.jetbrains.com/lp/mono/ - https://github.com/JetBrains/JetBrainsMono). JetBrains Mono typeface is available under the OFL-1.1 License and can be used free of charge, for both commercial and non-commercial purposes. You do not need to give credit to JetBrains, although we will appreciate it very much if you do. The source code is available under Apache 2.0 License";
+    FontCopyright = "JetBrains. 2019-2023. All Rights Reserved";
+    Foundry = "Monotype Typography";
+    Packager = "armm77 <armm77@icloud.com>";
+    Version = 2.304;
+}

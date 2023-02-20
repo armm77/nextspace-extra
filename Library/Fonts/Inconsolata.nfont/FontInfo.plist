@@ -1,0 +1,53 @@
+﻿{
+    Faces = (
+        {
+            Files = (Inconsolata-Regular.ttf);
+            Name = Regular;
+            PostScriptName = Inconsolata-Regular;
+        },
+        {
+            Files = (Inconsolata-Medium.ttf);
+            Name = Medium;
+            PostScriptName = Inconsolata-Medium;
+        },
+        {
+            Files = (Inconsolata-Light.ttf);
+            Name = Light;
+            PostScriptName = Inconsolata-Light;
+        },
+        {
+            Files = (Inconsolata-ExtraLight.ttf);
+            Name = "Extra Light";
+            PostScriptName = Inconsolata-ExtraLight;
+        },
+        {
+            Files = (Inconsolata-Black.ttf);
+            Name = Black;
+            PostScriptName = Inconsolata-Black;
+        },
+        {
+            Files = (Inconsolata-Bold.ttf);
+            Name = Bold;
+            PostScriptName = Inconsolata-Bold;
+        },
+        {
+            Files = (Inconsolata-ExtraBold.ttf);
+            Name = "Extra Bold";
+            PostScriptName = Inconsolata-ExtraBold;
+        },
+        {
+            Files = (Inconsolata-SemiBold.ttf);
+            Name = "Semi Bold";
+            PostScriptName = Inconsolata-SemiBold;
+        }
+    );
+    Description = "Inconsolata was Raph Levien's first serious original font release. It is a monospace font, designed for printed code listings and the like. There are a great many “programmer fonts,” designed primarily for use on the screen, but in most cases do not have the attention to detail for high resolution rendering.
+
+Inconsolata draws from many inspirations and sources. I was particularly struck by the beauty of Luc(as) de Groot's Consolas, which is his monospaced design for Microsoft's Vista release. This font, similar to his earlier TheSansMono, demonstrated clearly to me that monospaced fonts do not have to suck.
+
+The development of the Regular style by Raph Levien was started in 2006 using his own Spiro-based tools and FontForge. The Bold style was designed by Kirill Tkachev and the Cyreal foundry in 2012. https://github.com/googlefonts/inconsolata";
+    FontCopyright = "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
+    Foundry = "Monotype Typography";
+    Packager = "armm77 <armm77@icloud.com>";
+    Version = v.3.000;
+}

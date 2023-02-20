@@ -1,0 +1,57 @@
+{
+    Faces = (
+        {
+            Files = (
+                Antonio-Regular.ttf
+            );
+            Name = "Regular";
+            PostScriptName = "Antonio Regular";
+        },
+        {
+            Files = (
+                Antonio-Bold.ttf
+            );
+            Name = "Bold";
+            PostScriptName = "Antonio Bold";
+        },
+	{
+            Files = (
+                Antonio-ExtraLight.ttf
+            );
+            Name = "ExtraLight";
+            PostScriptName = "Antonio ExtraLight";
+        },
+	{
+            Files = (
+                Antonio-Light.ttf
+            );
+            Name = "Light";
+            PostScriptName = "Antonio Light";
+        },
+	{
+            Files = (
+                Antonio-Medium.ttf
+            );
+            Name = "Medium";
+            PostScriptName = "Antonio Medium";
+        },
+	{
+            Files = (
+                Antonio-SemiBold.ttf
+            );
+            Name = "SemiBold";
+            PostScriptName = "Antonio Semi Bold";
+        },
+	{
+            Files = (
+                Antonio-Thin.ttf
+            );
+            Name = "Thin";
+            PostScriptName = "Antonio Thin";
+        }
+    );
+    Description = "Antonio extends the Anton design to include more weights and introduces refinements to the design that makes it also suitable for use in smaller headings, menus and 'buttons' etc. ";
+    FontCopyright = "Vernon practiced typeface design from 2007 to 2014. A lifelong artist, during this time he eagerly explored designing type for the cloud-based era. His work spans all genres, from lively script faces to workhorse text families and operating system UI. Vernon graduated with an MA in Typeface Design from the University of Reading and lives in California. His designs are mostly published as open source Google Fonts and his favorite projects include Oxygen Mono, Monda, and Bowlby One. Follow his story at www.sansoxygen.com.";
+    Packager = "Andres Morales <armm77@icloud.com>";
+    Version = 1.00;
+}

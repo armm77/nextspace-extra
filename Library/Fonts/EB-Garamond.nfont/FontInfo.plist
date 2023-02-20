@@ -1,0 +1,78 @@
+{
+    Faces = (
+        {
+            Files = (
+                EBGaramond-Regular.ttf
+            );
+            Name = "Regular";
+            PostScriptName = "EBGaramond Regular";
+        },
+        {
+            Files = (
+                EBGaramond-Bold.ttf
+            );
+            Name = "Bold";
+            PostScriptName = "EBGaramond Bold";
+        },
+        {
+            Files = (
+                EBGaramond-BoldItalic.ttf
+            );
+            Name = "BoldItalic";
+            PostScriptName = "EBGaramond Bold Italic";
+        },
+        {
+            Files = (
+                EBGaramond-Italic.ttf
+            );
+            Name = "Italic";
+            PostScriptName = "EBGaramond Italic";
+        },
+	{
+            Files = (
+                EBGaramond-ExtraBold.ttf
+            );
+            Name = "ExtraBold";
+            PostScriptName = "EBGaramond ExtraBold";
+        },
+	{
+            Files = (
+                EBGaramond-ExtraBoldItalic.ttf
+            );
+            Name = "ExtraBoldItalic";
+            PostScriptName = "EBGaramond ExtraBoldItalic";
+        },
+	{
+            Files = (
+                EBGaramond-Medium.ttf
+            );
+            Name = "Medium";
+            PostScriptName = "EBGaramond Medium";
+        },
+	{
+            Files = (
+                EBGaramond-MediumItalic.ttf
+            );
+            Name = "MediumItalic";
+            PostScriptName = "EBGaramond Medium Italic";
+        },
+	{
+            Files = (
+                EBGaramond-SemiBold.ttf
+            );
+            Name = "SemiBold";
+            PostScriptName = "EBGaramond Semi Bold";
+        },
+	{
+            Files = (
+                EBGaramond-SemiBoldItalic.ttf
+            );
+            Name = "SemiBoldItalic";
+            PostScriptName = "EBGaramond Semi Bold Italic";
+        }
+    );
+    Description = "EB Garamond is intended to be an excellent, classical, Garamond. It is a community project to create a revival of Claude Garamont’s famous humanist typefaces from the mid-16th century. ";
+    FontCopyright = "Copyright 2017 The EB Garamond Project Authors (https://github.com/octaviopardo/";
+    Packager = "Andres Morales <armm77@icloud.com>";
+    Version = 1.00;
+}

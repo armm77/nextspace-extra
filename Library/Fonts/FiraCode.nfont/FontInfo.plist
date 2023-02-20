@@ -1,0 +1,39 @@
+﻿{
+    Faces = (
+        {
+            Files = (FiraCode-Regular.ttf);
+            Name = Regular;
+            PostScriptName = FiraCode-Regular;
+        },
+        {
+            Files = (FiraCode-Medium.ttf);
+            Name = Medium;
+            PostScriptName = FiraCode-Medium;
+        },
+        {
+            Files = (FiraCode-Light.ttf);
+            Name = Light;
+            PostScriptName = FiraCode-Light;
+        },
+        {
+            Files = (FiraCode-Bold.ttf);
+            Name = Bold;
+            PostScriptName = FiraCode-Bold;
+        },
+        {
+            Files = (FiraCode-SemiBold.ttf);
+            Name = "Semi Bold";
+            PostScriptName = FiraCode-SemiBold;
+        },
+        {
+            Files = (FiraCode-Retina.ttf);
+            Name = "Retina";
+            PostScriptName = FiraCode-Retina;
+        }
+    );
+    Description = "Fira Code is a free monospaced font containing ligatures for common programming multi-character combinations. This is just a font rendering feature: underlying code remains ASCII-compatible. This helps to read and understand code faster.OFL-1.1 License and can be used free of charge. https://github.com/tonsky/FiraCode";
+    FontCopyright = "Nikita Prokopov. 2019-2023. All Rights Reserved";
+    Foundry = "Monospaced Typography";
+    Packager = "armm77 <armm77@icloud.com>";
+    Version = 6.2;
+}

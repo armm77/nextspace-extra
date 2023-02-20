@@ -1,0 +1,28 @@
+﻿{
+  Faces = (
+   {
+      Files = (Agave-Regular.ttf);
+      Name = "Regular";
+      PostScriptName = Agave-Regular;
+   },
+   {
+      Files = (Agave-Regular-slashed.ttf);
+      Name = "Regular-slashed";
+      PostScriptName = Agave-Regular-slashed;
+   }, 
+   {
+      Files = (Agave-Bold.ttf);
+      Name = "Bold";
+      PostScriptName = "Agave-Bold";
+   },
+   {
+      Files = (Agave-Bold-slashed.ttf);
+      Name = "Bold-slashed";
+      PostScriptName = "Agave-Bold-slashed";
+   }
+  );
+    Description = "Agave was an attempt at making a small, monospaced, outline font that would be geometrically regular and simple. The endeavor was motivated by a deep adoration of old-school console bitmap fonts, of Consolas, of Pragmata Pro, as well as a novice's curiosity for typographical design. https://b.agaric.net/page/agave https://github.com/blobject/agave";
+    FontCopyright = "All original material included under b.agaric.net, such as text and media, is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License unless otherwise specified.";
+    Packager = "armm77 <armm77@icloud.com>";
+    Version = v37;
+}

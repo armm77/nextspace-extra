@@ -1,0 +1,50 @@
+{
+    Faces = (
+        {
+            Files = (
+                Oswald-Regular.ttf
+            );
+            Name = "Regular";
+            PostScriptName = "Oswald Regular";
+        },
+        {
+            Files = (
+                Oswald-Bold.ttf
+            );
+            Name = "Bold";
+            PostScriptName = "Oswald Bold";
+        },
+	{
+            Files = (
+                Oswald-Light.ttf
+            );
+            Name = "Light";
+            PostScriptName = "Oswald Light";
+        },
+	{
+            Files = (
+                Oswald-ExtraLight.ttf
+            );
+            Name = "ExtraLight";
+            PostScriptName = "Oswald ExtraLight";
+        },
+	{
+            Files = (
+                Oswald-Medium.ttf
+            );
+            Name = "Medium";
+            PostScriptName = "Oswald Medium";
+        },
+	{
+            Files = (
+                Oswald-SemiBold.ttf
+            );
+            Name = "SemiBold";
+            PostScriptName = "Oswald Semi Bold";
+        }
+    );
+    Description = "Oswald is a reworking of the classic style historically represented by the 'Alternate Gothic' sans serif typefaces. The characters of Oswald were initially re-drawn and reformed to better fit the pixel grid of standard digital screens.";
+    FontCopyright = "Since the initial launch in 2011, Oswald was updated continually by Vernon Adams until 2014.";
+    Packager = "Andres Morales <armm77@icloud.com>";
+    Version = 1.00;
+}

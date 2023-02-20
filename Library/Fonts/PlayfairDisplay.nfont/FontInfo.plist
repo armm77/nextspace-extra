@@ -1,0 +1,92 @@
+{
+    Faces = (
+        {
+            Files = (
+                PlayfairDisplay-Regular.ttf
+            );
+            Name = "Regular";
+            PostScriptName = "PlayfairDisplay Regular";
+        },
+        {
+            Files = (
+                PlayfairDisplay-Bold.ttf
+            );
+            Name = "Bold";
+            PostScriptName = "PlayfairDisplay Bold";
+        },
+        {
+            Files = (
+                PlayfairDisplay-BoldItalic.ttf
+            );
+            Name = "BoldItalic";
+            PostScriptName = "PlayfairDisplay Bold Italic";
+        },
+        {
+            Files = (
+                PlayfairDisplay-Italic.ttf
+            );
+            Name = "Italic";
+            PostScriptName = "PlayfairDisplay Italic";
+        },
+	{
+            Files = (
+                PlayfairDisplay-ExtraBold.ttf
+            );
+            Name = "ExtraBold";
+            PostScriptName = "PlayfairDisplay ExtraBold";
+        },
+	{
+            Files = (
+                PlayfairDisplay-ExtraBoldItalic.ttf
+            );
+            Name = "ExtraBoldItalic";
+            PostScriptName = "PlayfairDisplay ExtraBoldItalic";
+        },
+	{
+            Files = (
+                PlayfairDisplay-Medium.ttf
+            );
+            Name = "Medium";
+            PostScriptName = "PlayfairDisplay Medium";
+        },
+	{
+            Files = (
+                PlayfairDisplay-MediumItalic.ttf
+            );
+            Name = "MediumItalic";
+            PostScriptName = "PlayfairDisplay Medium Italic";
+        },
+	{
+            Files = (
+                PlayfairDisplay-SemiBold.ttf
+            );
+            Name = "SemiBold";
+            PostScriptName = "PlayfairDisplay Semi Bold";
+        },
+	{
+            Files = (
+                PlayfairDisplay-SemiBoldItalic.ttf
+            );
+            Name = "SemiBoldItalic";
+            PostScriptName = "PlayfairDisplay Semi Bold Italic";
+        },
+        {
+            Files = (
+                PlayfairDisplay-Black.ttf
+            );
+            Name = "Black";
+            PostScriptName = "PlayfairDisplay Black";
+        },
+        {
+            Files = (
+                PlayfairDisplay-BlackItalic.ttf
+            );
+            Name = "BlackItalic";
+            PostScriptName = "PlayfairDisplay Black Italic";
+        }
+    );
+    Description = "The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display)";
+    FontCopyright = "Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name Playfair Display.";
+    Packager = "Andres Morales <armm77@icloud.com>";
+    Version = 1.00;
+}

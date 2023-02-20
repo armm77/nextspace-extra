@@ -1,0 +1,78 @@
+{
+    Faces = (
+        {
+            Files = (
+                CormorantGaramond-Regular.ttf
+            );
+            Name = "Regular";
+            PostScriptName = "Garamond Regular";
+        },
+        {
+            Files = (
+                CormorantGaramond-Bold.ttf
+            );
+            Name = "Bold";
+            PostScriptName = "Garamond Bold";
+        },
+        {
+            Files = (
+                CormorantGaramond-BoldItalic.ttf
+            );
+            Name = "BoldItalic";
+            PostScriptName = "Garamond Bold Italic";
+        },
+        {
+            Files = (
+                CormorantGaramond-Italic.ttf
+            );
+            Name = "Italic";
+            PostScriptName = "Garamond Italic";
+        },
+	{
+            Files = (
+                CormorantGaramond-Light.ttf
+            );
+            Name = "Light";
+            PostScriptName = "Garamond Light";
+        },
+	{
+            Files = (
+                CormorantGaramond-LightItalic.ttf
+            );
+            Name = "LightItalic";
+            PostScriptName = "Garamond Light Italic";
+        },
+	{
+            Files = (
+                CormorantGaramond-Medium.ttf
+            );
+            Name = "Medium";
+            PostScriptName = "Garamond Medium";
+        },
+	{
+            Files = (
+                CormorantGaramond-MediumItalic.ttf
+            );
+            Name = "MediumItalic";
+            PostScriptName = "Garamond Medium Italic";
+        },
+	{
+            Files = (
+                CormorantGaramond-SemiBold.ttf
+            );
+            Name = "SemiBold";
+            PostScriptName = "Garamond Semi Bold";
+        },
+	{
+            Files = (
+                CormorantGaramond-SemiBoldItalic.ttf
+            );
+            Name = "SemiBoldItalic";
+            PostScriptName = "Garamond Semi Bold Italic";
+        }
+    );
+    Description = "Cormorant is a free display type family developed by Christian Thalmann.";
+    FontCopyright = "Copyright (c) 2015, Christian Thalmann and the Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)";
+    Packager = "Andres Morales <armm77@icloud.com>";
+    Version = 1.00;
+}
