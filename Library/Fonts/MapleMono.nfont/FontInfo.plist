@@ -1,0 +1,23 @@
+﻿{
+  Faces = (
+   {
+      Files = (MapleMono-Regular.ttf);
+      Name = "Regular";
+      PostScriptName = "MapleMono-Regular";
+   },
+   {
+      Files = (MapleMono-Light.ttf);
+      Name = "Light";
+      PostScriptName = "MapleMono-Light";
+   }, 
+   {
+      Files = (MapleMono-Bold.ttf);
+      Name = "Bold";
+      PostScriptName = "MapleMono-Bold";
+   }
+  );
+    Description = "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. https://github.com/subframe7536/maple-font";
+    FontCopyright = "Maple Mono is licensed under the SIL Open Font License v1.1, see OFL.txt for details.";
+    Packager = "armm77 <armm77@icloud.com>";
+    Version = v6.4;
+}

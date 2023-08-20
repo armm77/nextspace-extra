@@ -3,12 +3,12 @@
    {
       Files = (Agave-Regular.ttf);
       Name = "Regular";
-      PostScriptName = Agave-Regular;
+      PostScriptName = "Agave-Regular";
    },
    {
       Files = (Agave-Regular-slashed.ttf);
       Name = "Regular-slashed";
-      PostScriptName = Agave-Regular-slashed;
+      PostScriptName = "Agave-Regular-slashed";
    }, 
    {
       Files = (Agave-Bold.ttf);
